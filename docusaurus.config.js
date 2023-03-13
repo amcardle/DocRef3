@@ -68,17 +68,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Docs',
-                to: '/docs/intro',
-              },
-            ],
-          }
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} DocRef`,
       },
       prism: {
